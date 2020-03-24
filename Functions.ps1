@@ -1,0 +1,3 @@
+function MyCommand {
+    return "mycommand"
+}
